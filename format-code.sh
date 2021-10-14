@@ -2,7 +2,7 @@
 
 changed_java_files="$@"
 
-VERSION=1.9
+VERSION=1.11.0
 NAME=google-java-format-$VERSION
 CMD=$NAME-all-deps.jar
 
